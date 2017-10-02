@@ -6,7 +6,7 @@ projects:
   - eclipse/microprofile
   - eclipse/microprofile-config
   - eclipse/microprofile-evolution-process
-  - eclipse/microprofile-fault-tolerance
+  - jgallimore/microprofile-fault-tolerance
   - eclipse/microprofile-sandbox
   - eclipse/microprofile-health
   - eclipse/microprofile-jwt-auth
